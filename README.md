@@ -3,4 +3,4 @@ student feedbcak analysis
 
 The student feedback data are processed and their sentimental values are calculated using vader classifier.
 
-Implemented using Python Flask microframeword
+Implemented using Python Flask microframework
